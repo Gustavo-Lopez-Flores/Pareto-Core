@@ -2,6 +2,8 @@
 
 Pareto-Core é uma aplicação web que te ajuda a aprender os idiomas mais importantes do mundo de forma rápida e eficiente, utilizando o Princípio de Pareto. 
 
+Link: https://pareto-core.vercel.app/
+
 **Como funciona?**
 
 - **Foco nos 20% mais importantes:**  A aplicação te apresenta as 300 a 600 palavras e frases mais usadas em cada idioma, permitindo que você se comunique em situações comuns, como viajar.
