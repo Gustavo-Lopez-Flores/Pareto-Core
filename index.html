@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pareto-Core</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pareto-Core</h1>
+    </header>
+    <main>
+        <section id="language-selection">
+            <h2>Selecione os idiomas:</h2>
+            <label for="target-language">Idioma para Aprender:</label>
+            <select id="target-language">
+                <option value="english">Inglês</option>
+                <option value="spanish">Espanhol</option>
+                <option value="mandarin">Mandarim</option>
+                <option value="german">Alemão</option>
+                <option value="arabic">Árabe</option>
+                <option value="french">Francês</option>
+                <option value="japanese">Japonês</option>
+                <option value="portuguese">Português</option>
+            </select>
+
+            <label for="native-language">Seu Idioma Nativo:</label>
+            <select id="native-language">
+                <option value="portuguese">Português</option>
+                <option value="english">Inglês</option>
+                <option value="spanish">Espanhol</option>
+                <option value="mandarin">Mandarim</option>
+                <option value="german">Alemão</option>
+                <option value="arabic">Árabe</option>
+                <option value="french">Francês</option>
+                <option value="japanese">Japonês</option>
+            </select>
+
+            <button id="start-learning">Começar a Aprender</button>
+        </section>
+
+        <section id="content-area" style="display: none;">
+            <div id="greetings-section">
+                <h3>Cumprimentos</h3>
+                <ul id="greetings-list">
+                    <!-- Aqui serão adicionados os cumprimentos -->
+                </ul>
+            </div>
+
+            <div id="basic-phrases-section">
+                <h3>Frases Básicas</h3>
+                <ul id="basic-phrases-list">
+                    <!-- Aqui serão adicionados as frases básicas -->
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
