@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "Hola", "translation": "Olá" },
+      { "phrase": "Buenos días", "translation": "Bom dia" },
+      { "phrase": "Buenas tardes", "translation": "Boa tarde" },
+      { "phrase": "Buenas noches", "translation": "Boa noite" },
+      { "phrase": "¿Cómo estás?", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "Me llamo...", "translation": "Meu nome é..." },
+      { "phrase": "¿Cómo te llamas?", "translation": "Qual é o seu nome?" },
+      { "phrase": "Mucho gusto", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "Gracias", "translation": "Obrigado(a)" },
+      { "phrase": "De nada", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "¿Puedes ayudarme?", "translation": "Você pode me ajudar?" },
+      { "phrase": "Necesito ayuda con...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "¿Dónde está el baño?", "translation": "Onde fica o banheiro?" },
+      { "phrase": "Disculpe, ¿habla inglés?", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "No entiendo.", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "¿Dónde está el aeropuerto?", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "¿Cómo llego a...", "translation": "Como eu chego em..." },
+      { "phrase": "¿Puedes mostrarme en el mapa?", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "Siga recto.", "translation": "Siga em frente." },
+      { "phrase": "Gire a la izquierda/derecha.", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "¿Cuánto cuesta esto?", "translation": "Quanto custa isso?" },
+      { "phrase": "Me gustaría comprar...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "¿Puedo probarme esto?", "translation": "Posso experimentar?" },
+      { "phrase": "¿Tiene una talla más pequeña/grande?", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "¿Dónde está la caja?", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "Tengo hambre.", "translation": "Estou com fome." },
+      { "phrase": "Me gustaría pedir...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "¿Qué me recomienda?", "translation": "O que você recomenda?" },
+      { "phrase": "¿Me puede traer la cuenta?", "translation": "Posso pedir a conta?" },
+      { "phrase": "¡Esto está delicioso!", "translation": "Isso está delicioso!" }
+    ]
+  }

@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "مرحبا", "translation": "Olá" },
+      { "phrase": "صباح الخير", "translation": "Bom dia" },
+      { "phrase": "مساء الخير", "translation": "Boa tarde" },
+      { "phrase": "مساء الخير", "translation": "Boa noite" },
+      { "phrase": "كيف حالك؟", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "اسمي...", "translation": "Meu nome é..." },
+      { "phrase": "ما اسمك؟", "translation": "Qual é o seu nome?" },
+      { "phrase": "يسعدني أن أقابلك", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "شكرا", "translation": "Obrigado(a)" },
+      { "phrase": "عفوا", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "هل يمكنك مساعدتي؟", "translation": "Você pode me ajudar?" },
+      { "phrase": "أحتاج إلى مساعدة في...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "أين الحمام؟", "translation": "Onde fica o banheiro?" },
+      { "phrase": "عفوا، هل تتحدث الإنجليزية؟", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "لا أفهم", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "أين المطار؟", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "كيف أصل إلى...", "translation": "Como eu chego em..." },
+      { "phrase": "هل يمكنك أن تُريني على الخريطة؟", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "استمر في السير مباشرة", "translation": "Siga em frente." },
+      { "phrase": "انعطف يسارًا / يمينًا", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "كم سعر هذا؟", "translation": "Quanto custa isso?" },
+      { "phrase": "أريد شراء...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "هل يمكنني تجربة هذا؟", "translation": "Posso experimentar?" },
+      { "phrase": "هل لديك حجم أصغر / أكبر؟", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "أين الكاشير؟", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "أنا جائع", "translation": "Estou com fome." },
+      { "phrase": "أريد أن أطلب...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "ماذا توصي؟", "translation": "O que você recomenda?" },
+      { "phrase": "هل يمكنني الحصول على الفاتورة؟", "translation": "Posso pedir a conta?" },
+      { "phrase": "هذا لذيذ جدًا!", "translation": "Isso está delicioso!" }
+    ]
+  }

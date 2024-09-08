@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "こんにちは", "translation": "Olá" },
+      { "phrase": "おはようございます", "translation": "Bom dia" },
+      { "phrase": "こんにちは", "translation": "Boa tarde" },
+      { "phrase": "こんばんは", "translation": "Boa noite" },
+      { "phrase": "お元気ですか？", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "私の名前は…です", "translation": "Meu nome é..." },
+      { "phrase": "お名前は？", "translation": "Qual é o seu nome?" },
+      { "phrase": "はじめまして", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "ありがとう", "translation": "Obrigado(a)" },
+      { "phrase": "どういたしまして", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "手伝って下さい", "translation": "Você pode me ajudar?" },
+      { "phrase": "…の助けが必要です", "translation": "Preciso de ajuda com..." },
+      { "phrase": "トイレはどこですか？", "translation": "Onde fica o banheiro?" },
+      { "phrase": "すみません、英語を話せますか？", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "わかりません", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "空港はどこですか？", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "…へはどう行けばいいですか？", "translation": "Como eu chego em..." },
+      { "phrase": "地図で示していただけますか？", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "まっすぐ進んで下さい", "translation": "Siga em frente." },
+      { "phrase": "左/右に曲がって下さい", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "これはいくらですか？", "translation": "Quanto custa isso?" },
+      { "phrase": "…を買いたいのですが", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "試着できますか？", "translation": "Posso experimentar?" },
+      { "phrase": "もっと小さい/大きいサイズはありますか？", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "レジはどこですか？", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "お腹が空きました", "translation": "Estou com fome." },
+      { "phrase": "…を頼みたいのですが", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "おすすめは何ですか？", "translation": "O que você recomenda?" },
+      { "phrase": "お会計をお願いします", "translation": "Posso pedir a conta?" },
+      { "phrase": "おいしいです！", "translation": "Isso está delicioso!" }
+    ]
+  }

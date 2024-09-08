@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "Olá", "translation": "Olá" },
+      { "phrase": "Bom dia", "translation": "Bom dia" },
+      { "phrase": "Boa tarde", "translation": "Boa tarde" },
+      { "phrase": "Boa noite", "translation": "Boa noite" },
+      { "phrase": "Como vai?", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "Meu nome é...", "translation": "Meu nome é..." },
+      { "phrase": "Qual é o seu nome?", "translation": "Qual é o seu nome?" },
+      { "phrase": "Prazer em conhecê-lo(a)", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "Obrigado(a)", "translation": "Obrigado(a)" },
+      { "phrase": "De nada", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "Você pode me ajudar?", "translation": "Você pode me ajudar?" },
+      { "phrase": "Preciso de ajuda com...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "Onde fica o banheiro?", "translation": "Onde fica o banheiro?" },
+      { "phrase": "Com licença, você fala inglês?", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "Não entendo", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "Onde fica o aeroporto?", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "Como eu chego em...", "translation": "Como eu chego em..." },
+      { "phrase": "Você pode me mostrar no mapa?", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "Siga em frente.", "translation": "Siga em frente." },
+      { "phrase": "Vire à esquerda/direita.", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "Quanto custa isso?", "translation": "Quanto custa isso?" },
+      { "phrase": "Eu gostaria de comprar...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "Posso experimentar?", "translation": "Posso experimentar?" },
+      { "phrase": "Você tem um tamanho menor/maior?", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "Onde fica o caixa?", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "Estou com fome.", "translation": "Estou com fome." },
+      { "phrase": "Eu gostaria de pedir...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "O que você recomenda?", "translation": "O que você recomenda?" },
+      { "phrase": "Posso pedir a conta?", "translation": "Posso pedir a conta?" },
+      { "phrase": "Isso está delicioso!", "translation": "Isso está delicioso!" }
+    ]
+  }

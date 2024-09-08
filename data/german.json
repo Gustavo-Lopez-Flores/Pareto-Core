@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "Hallo", "translation": "Olá" },
+      { "phrase": "Guten Morgen", "translation": "Bom dia" },
+      { "phrase": "Guten Tag", "translation": "Boa tarde" },
+      { "phrase": "Guten Abend", "translation": "Boa noite" },
+      { "phrase": "Wie geht es dir?", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "Ich heiße...", "translation": "Meu nome é..." },
+      { "phrase": "Wie heißen Sie?", "translation": "Qual é o seu nome?" },
+      { "phrase": "Freut mich, Sie kennenzulernen", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "Danke", "translation": "Obrigado(a)" },
+      { "phrase": "Bitte", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "Kannst du mir helfen?", "translation": "Você pode me ajudar?" },
+      { "phrase": "Ich brauche Hilfe mit...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "Wo ist die Toilette?", "translation": "Onde fica o banheiro?" },
+      { "phrase": "Entschuldigung, sprechen Sie Englisch?", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "Ich verstehe nicht.", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "Wo ist der Flughafen?", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "Wie komme ich nach...", "translation": "Como eu chego em..." },
+      { "phrase": "Können Sie mir das auf der Karte zeigen?", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "Gehen Sie geradeaus.", "translation": "Siga em frente." },
+      { "phrase": "Biegen Sie links/rechts ab.", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "Wie viel kostet das?", "translation": "Quanto custa isso?" },
+      { "phrase": "Ich möchte gerne kaufen...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "Kann ich das anprobieren?", "translation": "Posso experimentar?" },
+      { "phrase": "Haben Sie eine kleinere/größere Größe?", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "Wo ist die Kasse?", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "Ich habe Hunger.", "translation": "Estou com fome." },
+      { "phrase": "Ich möchte bestellen...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "Was empfehlen Sie?", "translation": "O que você recomenda?" },
+      { "phrase": "Kann ich die Rechnung bekommen?", "translation": "Posso pedir a conta?" },
+      { "phrase": "Das ist köstlich!", "translation": "Isso está delicioso!" }
+    ]
+  }

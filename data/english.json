@@ -1,38 +1,44 @@
 {
     "greetings": [
-        {
-        "phrase": "Hello",
-        "translation": "Olá"
-        },
-        {
-        "phrase": "Good morning",
-        "translation": "Bom dia"
-        },
-        {
-        "phrase": "Good afternoon",
-        "translation": "Boa tarde"
-        },
-        {
-        "phrase": "Good evening",
-        "translation": "Boa noite"
-        }
+      { "phrase": "Hello", "translation": "Olá" },
+      { "phrase": "Good morning", "translation": "Bom dia" },
+      { "phrase": "Good afternoon", "translation": "Boa tarde" },
+      { "phrase": "Good evening", "translation": "Boa noite" },
+      { "phrase": "How are you?", "translation": "Como está?" }
     ],
     "basicPhrases": [
-        {
-        "phrase": "How are you?",
-        "translation": "Como está?"
-        },
-        {
-        "phrase": "I'm fine, thank you.",
-        "translation": "Estou bem, obrigado(a)."
-        },
-        {
-        "phrase": "What's your name?",
-        "translation": "Qual é o seu nome?"
-        },
-        {
-        "phrase": "My name is...",
-        "translation": "Meu nome é..."
-        }
+      { "phrase": "My name is...", "translation": "Meu nome é..." },
+      { "phrase": "What's your name?", "translation": "Qual é o seu nome?" },
+      { "phrase": "Nice to meet you", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "Thank you", "translation": "Obrigado(a)" },
+      { "phrase": "You're welcome", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "Can you help me?", "translation": "Você pode me ajudar?" },
+      { "phrase": "I need help with...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "Where is the bathroom?", "translation": "Onde fica o banheiro?" },
+      { "phrase": "Excuse me, do you speak English?", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "I don't understand.", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "Where is the airport?", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "How do I get to...", "translation": "Como eu chego em..." },
+      { "phrase": "Can you show me on the map?", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "Go straight ahead.", "translation": "Siga em frente." },
+      { "phrase": "Turn left/right.", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "How much is this?", "translation": "Quanto custa isso?" },
+      { "phrase": "I'd like to buy...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "Can I try this on?", "translation": "Posso experimentar?" },
+      { "phrase": "Do you have a smaller/larger size?", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "Where is the cashier?", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "I'm hungry.", "translation": "Estou com fome." },
+      { "phrase": "I'd like to order...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "What do you recommend?", "translation": "O que você recomenda?" },
+      { "phrase": "Can I have the check?", "translation": "Posso pedir a conta?" },
+      { "phrase": "This is delicious!", "translation": "Isso está delicioso!" }
     ]
-}
+  }

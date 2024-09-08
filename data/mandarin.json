@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "你好", "translation": "Olá" },
+      { "phrase": "早上好", "translation": "Bom dia" },
+      { "phrase": "下午好", "translation": "Boa tarde" },
+      { "phrase": "晚上好", "translation": "Boa noite" },
+      { "phrase": "你好吗？", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "我叫...", "translation": "Meu nome é..." },
+      { "phrase": "你叫什么名字？", "translation": "Qual é o seu nome?" },
+      { "phrase": "很高兴认识你", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "谢谢", "translation": "Obrigado(a)" },
+      { "phrase": "不客气", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "你能帮我吗？", "translation": "Você pode me ajudar?" },
+      { "phrase": "我需要帮助...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "洗手间在哪里？", "translation": "Onde fica o banheiro?" },
+      { "phrase": "请问，你会说英语吗？", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "我不明白", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "机场在哪里？", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "怎么去...", "translation": "Como eu chego em..." },
+      { "phrase": "你能在地图上指给我看吗？", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "一直往前走", "translation": "Siga em frente." },
+      { "phrase": "向左/右转", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "这个多少钱？", "translation": "Quanto custa isso?" },
+      { "phrase": "我想买...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "我可以试穿吗？", "translation": "Posso experimentar?" },
+      { "phrase": "有更小/更大的尺寸吗？", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "收银台在哪里？", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "我饿了", "translation": "Estou com fome." },
+      { "phrase": "我想点...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "您推荐什么？", "translation": "O que você recomenda?" },
+      { "phrase": "可以结账了吗？", "translation": "Posso pedir a conta?" },
+      { "phrase": "太好吃了！", "translation": "Isso está delicioso!" }
+    ]
+  }

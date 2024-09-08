@@ -1,0 +1,44 @@
+{
+    "greetings": [
+      { "phrase": "Bonjour", "translation": "Olá" },
+      { "phrase": "Bonjour", "translation": "Bom dia" },
+      { "phrase": "Bonjour", "translation": "Boa tarde" },
+      { "phrase": "Bonsoir", "translation": "Boa noite" },
+      { "phrase": "Comment allez-vous?", "translation": "Como está?" }
+    ],
+    "basicPhrases": [
+      { "phrase": "Je m'appelle...", "translation": "Meu nome é..." },
+      { "phrase": "Comment vous appelez-vous?", "translation": "Qual é o seu nome?" },
+      { "phrase": "Enchanté(e)", "translation": "Prazer em conhecê-lo(a)" },
+      { "phrase": "Merci", "translation": "Obrigado(a)" },
+      { "phrase": "De rien", "translation": "De nada" }
+    ],
+    "askingForHelp": [
+      { "phrase": "Pouvez-vous m'aider?", "translation": "Você pode me ajudar?" },
+      { "phrase": "J'ai besoin d'aide pour...", "translation": "Preciso de ajuda com..." },
+      { "phrase": "Où sont les toilettes?", "translation": "Onde fica o banheiro?" },
+      { "phrase": "Excusez-moi, parlez-vous anglais?", "translation": "Com licença, você fala inglês?" },
+      { "phrase": "Je ne comprends pas.", "translation": "Eu não entendo." }
+    ],
+    "directions": [
+      { "phrase": "Où est l'aéroport?", "translation": "Onde fica o aeroporto?" },
+      { "phrase": "Comment aller à...", "translation": "Como eu chego em..." },
+      { "phrase": "Pouvez-vous me montrer sur la carte?", "translation": "Você pode me mostrar no mapa?" },
+      { "phrase": "Allez tout droit.", "translation": "Siga em frente." },
+      { "phrase": "Tournez à gauche/à droite.", "translation": "Vire à esquerda/direita." }
+    ],
+    "shopping": [
+      { "phrase": "Combien coûte ça?", "translation": "Quanto custa isso?" },
+      { "phrase": "J'aimerais acheter...", "translation": "Eu gostaria de comprar..." },
+      { "phrase": "Puis-je essayer?", "translation": "Posso experimentar?" },
+      { "phrase": "Avez-vous une taille plus petite/plus grande?", "translation": "Você tem um tamanho menor/maior?" },
+      { "phrase": "Où est la caisse?", "translation": "Onde fica o caixa?" }
+    ],
+    "eating": [
+      { "phrase": "J'ai faim.", "translation": "Estou com fome." },
+      { "phrase": "Je voudrais commander...", "translation": "Eu gostaria de pedir..." },
+      { "phrase": "Que me recommandez-vous?", "translation": "O que você recomenda?" },
+      { "phrase": "L'addition, s'il vous plaît.", "translation": "Posso pedir a conta?" },
+      { "phrase": "C'est délicieux!", "translation": "Isso está delicioso!" }
+    ]
+  }
