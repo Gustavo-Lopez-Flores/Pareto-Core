@@ -1,0 +1,38 @@
+{
+    "greetings": [
+        {
+        "phrase": "Hello",
+        "translation": "Olá"
+        },
+        {
+        "phrase": "Good morning",
+        "translation": "Bom dia"
+        },
+        {
+        "phrase": "Good afternoon",
+        "translation": "Boa tarde"
+        },
+        {
+        "phrase": "Good evening",
+        "translation": "Boa noite"
+        }
+    ],
+    "basicPhrases": [
+        {
+        "phrase": "How are you?",
+        "translation": "Como está?"
+        },
+        {
+        "phrase": "I'm fine, thank you.",
+        "translation": "Estou bem, obrigado(a)."
+        },
+        {
+        "phrase": "What's your name?",
+        "translation": "Qual é o seu nome?"
+        },
+        {
+        "phrase": "My name is...",
+        "translation": "Meu nome é..."
+        }
+    ]
+}
