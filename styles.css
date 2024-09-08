@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#language-selection label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#language-selection select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+#start-learning {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#content-area ul {
+    list-style: none;
+    padding: 0;
+}
+
+#content-area li {
+    margin-bottom: 10px;
+}
